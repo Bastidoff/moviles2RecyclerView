@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217768442890",
+    "project_id": "paseoviernes-80b27",
+    "storage_bucket": "paseoviernes-80b27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217768442890:android:74e755381e44c9932fb3f3",
+        "android_client_info": {
+          "package_name": "com.example.paseo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217768442890-jcosk09gvk6dt6k1h8t0ancdb73v15t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqhHcMNNHD_W5gkCQAzzCeouaBTr3j30s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217768442890-jcosk09gvk6dt6k1h8t0ancdb73v15t4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
